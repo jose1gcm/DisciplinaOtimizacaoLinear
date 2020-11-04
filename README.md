@@ -19,7 +19,7 @@ Atividades desenvolvidas durante a disciplina de Otimização Linear e Inteira
 
 ```
 * exemplo2.py Calcula o valor para um conjunto de x1 e x2 que maximize a função objetivo, respeitando as restrições 
-* impostas pelo problema
+  impostas pelo problema
 ```
 ![](img%20OL/img_OL_ex2_1.png)
 
@@ -35,7 +35,7 @@ Atividades desenvolvidas durante a disciplina de Otimização Linear e Inteira
 
 ```
 * trabalho.py Problema: encontrar a rota que passa por algumas cidades, utiliza o conceito de cortes em Otimização Linear 
-* e inteira, para encontrar uma solução para o problema 
+  e inteira, para encontrar uma solução para o problema 
 ```
 ![](img%20OL/img_OL_trab.png)
 
